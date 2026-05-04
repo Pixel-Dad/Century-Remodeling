@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://century-remodeling.com/rss.xml">
+  <channel>
+    <title>Century Remodeling - We build good stuff.</title>
+    <link>http://century-remodeling.com/rss.xml</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Welcome</title>
+  <link>http://century-remodeling.com/welcome</link>
+  <description>&lt;span property="schema:name" class="field field--name-title field--type-string field--label-hidden"&gt;Welcome&lt;/span&gt;
+&lt;span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://century-remodeling.com/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;tj6seven&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2017-02-23T16:50:11+00:00" class="field field--name-created field--type-created field--label-hidden"&gt;Thu, 02/23/2017 - 16:50&lt;/span&gt;
+
+            &lt;div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Century Remodeling &amp; Improvement Company in Crownsville, Maryland, offers a variety of remodeling services to clients throughout Maryland. &lt;/p&gt;
+
+&lt;p&gt;Innovative and technological planning, quality workmanship, and professional standards are the hallmarks of Century Remodeling &amp; Improvement. Our family-owned-and-operated business uses high-quality materials in every job, and we go out of our way to keep the job site clean and minimize disruption in your home.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;span class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="http://century-remodeling.com/welcome" data-a2a-title="Welcome"&gt;&lt;a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share#url=http%3A%2F%2Fcentury-remodeling.com%2Fwelcome&amp;title=Welcome"&gt;&lt;/a&gt;&lt;a class="a2a_button_facebook"&gt;&lt;/a&gt;
+&lt;a class="a2a_button_twitter"&gt;&lt;/a&gt;
+&lt;a class="a2a_button_google_plus"&gt;&lt;/a&gt;&lt;/span&gt;
+</description>
+  <pubDate>Thu, 23 Feb 2017 16:50:11 +0000</pubDate>
+    <dc:creator>tj6seven</dc:creator>
+    <guid isPermaLink="false">2 at http://century-remodeling.com</guid>
+    </item>
+
+  </channel>
+</rss>
